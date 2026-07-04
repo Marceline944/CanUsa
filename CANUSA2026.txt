@@ -1,4 +1,22 @@
 #EXTMU3U
+#EXTINF:-1,TR:beIN SPORTS HABER
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/261
+#EXTINF:-1,BEINSPORTS 1  HD L 720  moh
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/7952
+#EXTINF:-1,BEIN SPORTS 1 HD 720
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/7953
+#EXTINF:-1,TR : beIN Sports 1 HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/7955
+#EXTINF:-1,BEINSPORTS 1 SD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/6780
+#EXTINF:-1,beIN SPORTS 1  720 HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/4610
+#EXTINF:-1,[TR]BEIN SPORTS 1  1080  moh
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3138
+#EXTINF:-1,[TR]BEIN SPORT 1 720
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3140
+#EXTINF:-1,TR: BEIN SPORTS 1 SD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3141
 
 
 
