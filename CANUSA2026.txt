@@ -884,15 +884,3 @@ http://tv2watch.icu:8080/96924127/96924127/16131
 http://tv2watch.icu:8080/96924127/96924127/57295
 #EXTINF:-1,CA: TV Ontario HD
 http://tv2watch.icu:8080/96924127/96924127/57369
-#EXTINF:-1,CA: Vision
-http://tv2watch.icu:8080/96924127/96924127/57468
-#EXTINF:-1,CA W Network East (E)
-http://tv2watch.icu:8080/96924127/96924127/57284
-#EXTINF:-1,CA: Weather Network Toronto
-http://tv2watch.icu:8080/96924127/96924127/57470
-#EXTINF:-1,CA: World Fishing Network
-http://tv2watch.icu:8080/96924127/96924127/57471
-#EXTINF:-1,CA YES TV 
-http://tv2watch.icu:8080/96924127/96924127/57472
-#EXTINF:-1,CA:TELE QUEBEC (FR)
-http://tv2watch.icu:8080/96924127/96924127/57336
