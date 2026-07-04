@@ -1,0 +1,904 @@
+#EXTMU3U
+#EXTINF:-1,US CBS 2 (WCBS) NEW YORK 
+http://tv2watch.icu:8080/96924127/96924127/120749
+#EXTINF:-1,US FOX (WNYW) New York 
+http://tv2watch.icu:8080/96924127/96924127/120750
+#EXTINF:-1,US NBC (WNBC) New York 
+http://tv2watch.icu:8080/96924127/96924127/120751
+#EXTINF:-1,USA: ABC
+http://tv2watch.icu:8080/96924127/96924127/22990
+#EXTINF:-1,US CW PIX11 (WPIX) New York 
+http://tv2watch.icu:8080/96924127/96924127/120897
+#EXTINF:-1,US News 12 Connecticut 
+http://tv2watch.icu:8080/96924127/96924127/120854
+#EXTINF:-1,US ABC (WEWS) HD 
+http://tv2watch.icu:8080/96924127/96924127/120844
+#EXTINF:-1,US abc7 (WZVN) Fort Myers 
+http://tv2watch.icu:8080/96924127/96924127/149745
+#EXTINF:-1,US abc 7 (WJLA) Washington 
+http://tv2watch.icu:8080/96924127/96924127/167753
+
+
+#EXTINF:-1,CBS: FL FORT MYERS WINK
+http://tv2watch.icu:8080/96924127/96924127/121761
+#EXTINF:-1,MSNBC live
+http://tv2watch.icu:8080/96924127/96924127/122561
+#EXTINF:-1,CA (FR) RDI (E)
+http://tv2watch.icu:8080/96924127/96924127/126723
+#EXTINF:-1,US Al Jazeera
+http://tv2watch.icu:8080/96924127/96924127/160711
+
+#EXTINF:-1,FR: FRANCE 2 FHD
+http://tv2watch.icu:8080/96924127/96924127/160297
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://tv2watch.icu:8080/96924127/96924127/160298
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://tv2watch.icu:8080/96924127/96924127/160299
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://tv2watch.icu:8080/96924127/96924127/160300
+
+
+
+#EXTINF:-1,US CHARGE! 
+http://tv2watch.icu:8080/96924127/96924127/79594
+#EXTINF:-1,US Disney Channel East (A)
+http://tv2watch.icu:8080/96924127/96924127/2206
+#EXTINF:-1,US: Disney XD
+http://tv2watch.icu:8080/96924127/96924127/75621
+#EXTINF:-1,US Lifetime Movies 
+http://tv2watch.icu:8080/96924127/96924127/20863
+#EXTINF:-1,US NBC Sports Network (F)
+http://tv2watch.icu:8080/96924127/96924127/46725
+#EXTINF:-1,US NickToons 
+http://tv2watch.icu:8080/96924127/96924127/36
+#EXTINF:-1,AU Redbull TV
+http://tv2watch.icu:8080/96924127/96924127/78424
+#EXTINF:-1,US STARZ ENCORE Black
+http://tv2watch.icu:8080/96924127/96924127/16141
+#EXTINF:-1,LAT: TELEMUNDO 51 MIAMI HD
+http://tv2watch.icu:8080/96924127/96924127/56410
+#EXTINF:-1,US TUDN 
+http://tv2watch.icu:8080/96924127/96924127/82241
+#EXTINF:-1,US Latin TUDN
+http://tv2watch.icu:8080/96924127/96924127/11885
+
+#EXTINF:-1,US: WWE NETWORK
+http://tv2watch.icu:8080/96924127/96924127/11645
+#EXTINF:-1,US NBC (KXAN) Austin 
+http://tv2watch.icu:8080/96924127/96924127/17749
+#EXTINF:-1,US Bally Sports Detroit (A)
+http://tv2watch.icu:8080/96924127/96924127/20930
+#EXTINF:-1,US Bally Sports Midwest (A)
+http://tv2watch.icu:8080/96924127/96924127/66795
+#EXTINF:-1,US FanDuel Sports Oklahoma 
+http://tv2watch.icu:8080/96924127/96924127/20934
+#EXTINF:-1,US Bally Sports Southeast 
+http://tv2watch.icu:8080/96924127/96924127/2213
+#EXTINF:-1,US Fanduel Sports Southwest 
+http://tv2watch.icu:8080/96924127/96924127/21843
+#EXTINF:-1,US FanDuel Sports West (A)
+http://tv2watch.icu:8080/96924127/96924127/20932
+#EXTINF:-1,US FanDuel Sports Wisconsin 
+http://tv2watch.icu:8080/96924127/96924127/78599
+#EXTINF:-1,USA-Disney Jr
+http://tv2watch.icu:8080/96924127/96924127/41960
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://tv2watch.icu:8080/96924127/96924127/35264
+#EXTINF:-1,US ESPN NEWS
+http://tv2watch.icu:8080/96924127/96924127/17707
+#EXTINF:-1,US Bally Sports North (A)
+http://tv2watch.icu:8080/96924127/96924127/58827
+#EXTINF:-1,US Bally Sports Detroit 
+http://tv2watch.icu:8080/96924127/96924127/20936
+#EXTINF:-1,US FanDuel Sports Ohio 
+http://tv2watch.icu:8080/96924127/96924127/17752
+#EXTINF:-1,US MASN (A)
+http://tv2watch.icu:8080/96924127/96924127/65697
+#EXTINF:-1,US MASN2 
+http://tv2watch.icu:8080/96924127/96924127/65698
+#EXTINF:-1,US MSG2 (F)
+http://tv2watch.icu:8080/96924127/96924127/21089
+#EXTINF:-1,US NBC Sports Bay Area (A)
+http://tv2watch.icu:8080/96924127/96924127/9900
+#EXTINF:-1,US NBC Sports Boston (A)
+http://tv2watch.icu:8080/96924127/96924127/20939
+#EXTINF:-1,US NBC Sports California (A)
+http://tv2watch.icu:8080/96924127/96924127/20940
+#EXTINF:-1,US NBC Sports Chicago 
+http://tv2watch.icu:8080/96924127/96924127/20941
+#EXTINF:-1,US NBC Sports Network (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/20926
+#EXTINF:-1,US NBC Sports Philly (F)
+http://tv2watch.icu:8080/96924127/96924127/20943
+#EXTINF:-1,US NBC Sports Washington (F)
+http://tv2watch.icu:8080/96924127/96924127/20944
+#EXTINF:-1,US NESN (F)
+http://tv2watch.icu:8080/96924127/96924127/31637
+#EXTINF:-1,US Nickelodeon East (A)
+http://tv2watch.icu:8080/96924127/96924127/38
+#EXTINF:-1,US ESPN SEC Network 
+http://tv2watch.icu:8080/96924127/96924127/17608
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers (HD) 
+http://tv2watch.icu:8080/96924127/96924127/31636
+#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/21842
+#EXTINF:-1,US Tennis Channel
+http://tv2watch.icu:8080/96924127/96924127/20184
+#EXTINF:-1,US YES Network
+http://tv2watch.icu:8080/96924127/96924127/57972
+#EXTINF:-1,US  Court TV
+http://tv2watch.icu:8080/96924127/96924127/21092
+#EXTINF:-1,US Pop 
+http://tv2watch.icu:8080/96924127/96924127/20976
+#EXTINF:-1,USA:  Showtime NEXT
+http://tv2watch.icu:8080/96924127/96924127/9316
+#EXTINF:-1,USA:  STARZ EDGE 
+http://tv2watch.icu:8080/96924127/96924127/16143
+#EXTINF:-1,US UniMas  
+http://tv2watch.icu:8080/96924127/96924127/57969
+#EXTINF:-1,US Univision (East) (SP)
+http://tv2watch.icu:8080/96924127/96924127/15336
+#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/20946
+#EXTINF:-1,US 5 StarMax
+http://tv2watch.icu:8080/96924127/96924127/13381
+#EXTINF:-1,USA: A&E
+http://tv2watch.icu:8080/96924127/96924127/59056
+#EXTINF:-1,US A&E (A)
+http://tv2watch.icu:8080/96924127/96924127/2201
+#EXTINF:-1,USA: ABC
+http://tv2watch.icu:8080/96924127/96924127/22990
+#EXTINF:-1,US ACC Network (A)
+http://tv2watch.icu:8080/96924127/96924127/9273
+#EXTINF:-1,US ActionMAX (East) 
+http://tv2watch.icu:8080/96924127/96924127/21013
+#EXTINF:-1,CA Adult Swim (R)
+http://tv2watch.icu:8080/96924127/96924127/11644
+#EXTINF:-1,US Altitude Sports HD 
+http://tv2watch.icu:8080/96924127/96924127/79545
+#EXTINF:-1,US AMC 
+http://tv2watch.icu:8080/96924127/96924127/18925
+#EXTINF:-1,US American Heroes Channel 
+http://tv2watch.icu:8080/96924127/96924127/10456
+#EXTINF:-1,US Animal Planet 
+http://tv2watch.icu:8080/96924127/96924127/17870
+#EXTINF:-1,US Antenna TV 
+http://tv2watch.icu:8080/96924127/96924127/20180
+#EXTINF:-1,US Aspire (A)
+http://tv2watch.icu:8080/96924127/96924127/21927
+#EXTINF:-1,US AXS TV 
+http://tv2watch.icu:8080/96924127/96924127/48324
+#EXTINF:-1,USA: Baby First HD
+http://tv2watch.icu:8080/96924127/96924127/58765
+#EXTINF:-1,US BBC America
+http://tv2watch.icu:8080/96924127/96924127/20194
+#EXTINF:-1,USA: Bet Gospel
+http://tv2watch.icu:8080/96924127/96924127/66080
+#EXTINF:-1,US BET (East)  
+http://tv2watch.icu:8080/96924127/96924127/13702
+#EXTINF:-1,USA: BET SOUL
+http://tv2watch.icu:8080/96924127/96924127/21844
+#EXTINF:-1,US Big Ten HD
+http://tv2watch.icu:8080/96924127/96924127/9828
+#EXTINF:-1,US Bloomberg
+http://tv2watch.icu:8080/96924127/96924127/15158
+#EXTINF:-1,US Boomerang 
+http://tv2watch.icu:8080/96924127/96924127/14741
+#EXTINF:-1,US Bounce XL 
+http://tv2watch.icu:8080/96924127/96924127/48323
+#EXTINF:-1,US Bravo (East)   
+http://tv2watch.icu:8080/96924127/96924127/20859
+#EXTINF:-1,US BUZZR (STV)
+http://tv2watch.icu:8080/96924127/96924127/21896
+#EXTINF:-1,US Cartoon Network 
+http://tv2watch.icu:8080/96924127/96924127/46708
+#EXTINF:-1,US CBS Sports Network HD 
+http://tv2watch.icu:8080/96924127/96924127/10454
+#EXTINF:-1,US CBS News 
+http://tv2watch.icu:8080/96924127/96924127/21259
+#EXTINF:-1,US Cinemax (East) 
+http://tv2watch.icu:8080/96924127/96924127/13380
+#EXTINF:-1,USA: CMT
+http://tv2watch.icu:8080/96924127/96924127/46706
+#EXTINF:-1,USA: CMT HD
+http://tv2watch.icu:8080/96924127/96924127/10476
+#EXTINF:-1,US CNBC 
+http://tv2watch.icu:8080/96924127/96924127/9815
+#EXTINF:-1,US CNBC World
+http://tv2watch.icu:8080/96924127/96924127/20860
+#EXTINF:-1,US CNN 
+http://tv2watch.icu:8080/96924127/96924127/1817
+#EXTINF:-1,US CNN 
+http://tv2watch.icu:8080/96924127/96924127/104884
+#EXTINF:-1,US Comedy Central (East) 
+http://tv2watch.icu:8080/96924127/96924127/7466
+#EXTINF:-1,US Comet (S)
+http://tv2watch.icu:8080/96924127/96924127/66244
+#EXTINF:-1,US Cooking Channel 
+http://tv2watch.icu:8080/96924127/96924127/9229
+#EXTINF:-1,US Cozi
+http://tv2watch.icu:8080/96924127/96924127/11868
+#EXTINF:-1,US Decades 
+http://tv2watch.icu:8080/96924127/96924127/20189
+#EXTINF:-1,US Destination America (A)
+http://tv2watch.icu:8080/96924127/96924127/14222
+#EXTINF:-1,US Discovery Channel (East)
+http://tv2watch.icu:8080/96924127/96924127/46720
+#EXTINF:-1,US Discovery Channel East 
+http://tv2watch.icu:8080/96924127/96924127/9811
+#EXTINF:-1,USA: DISCOVERY FAMILY
+http://tv2watch.icu:8080/96924127/96924127/10538
+#EXTINF:-1,USA: Discovery Life HD
+http://tv2watch.icu:8080/96924127/96924127/9861
+#EXTINF:-1,CA Discovery Velocity HD 
+http://tv2watch.icu:8080/96924127/96924127/46212
+#EXTINF:-1,US Magnolia Network 
+http://tv2watch.icu:8080/96924127/96924127/10503
+#EXTINF:-1,USA: DOGTV
+http://tv2watch.icu:8080/96924127/96924127/53539
+#EXTINF:-1,US E! Entertainment Television East 
+http://tv2watch.icu:8080/96924127/96924127/11651
+#EXTINF:-1,US EPIX (East) 
+http://tv2watch.icu:8080/96924127/96924127/13214
+#EXTINF:-1,US Epix Drive IN (S)
+http://tv2watch.icu:8080/96924127/96924127/14193
+#EXTINF:-1,USA: Epix Hits
+http://tv2watch.icu:8080/96924127/96924127/12744
+#EXTINF:-1,US EPIX2 (East)
+http://tv2watch.icu:8080/96924127/96924127/12730
+#EXTINF:-1,US ESPN 2 
+http://tv2watch.icu:8080/96924127/96924127/2210
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv2watch.icu:8080/96924127/96924127/14197
+#EXTINF:-1,US ESPN 1 (HD) 
+http://tv2watch.icu:8080/96924127/96924127/9802
+#EXTINF:-1,US ESPNU College Sports 
+http://tv2watch.icu:8080/96924127/96924127/10255
+#EXTINF:-1,USA: Food Network HD
+http://tv2watch.icu:8080/96924127/96924127/7323
+#EXTINF:-1,US Fox Business Network
+http://tv2watch.icu:8080/96924127/96924127/17639
+#EXTINF:-1,US Fox News  
+http://tv2watch.icu:8080/96924127/96924127/1818
+#EXTINF:-1,US Fox Sports 1 
+http://tv2watch.icu:8080/96924127/96924127/1846
+#EXTINF:-1,US Fox Sports 2 (A)
+http://tv2watch.icu:8080/96924127/96924127/1847
+#EXTINF:-1,US Bally Sports North (A)
+http://tv2watch.icu:8080/96924127/96924127/20928
+#EXTINF:-1,US Bally Sports Carolinas (A)
+http://tv2watch.icu:8080/96924127/96924127/20929
+#EXTINF:-1,US Bally Sports South
+http://tv2watch.icu:8080/96924127/96924127/20931
+#EXTINF:-1,US FanDuel Sports South 
+http://tv2watch.icu:8080/96924127/96924127/20922
+#EXTINF:-1,US Freeform East
+http://tv2watch.icu:8080/96924127/96924127/13370
+#EXTINF:-1,US Fuse 
+http://tv2watch.icu:8080/96924127/96924127/46701
+#EXTINF:-1,US FX East 
+http://tv2watch.icu:8080/96924127/96924127/46690
+#EXTINF:-1,US FXM 
+http://tv2watch.icu:8080/96924127/96924127/10260
+#EXTINF:-1,US FXX (East) 
+http://tv2watch.icu:8080/96924127/96924127/46699
+#EXTINF:-1,US FYI
+http://tv2watch.icu:8080/96924127/96924127/9240
+#EXTINF:-1,US Latin Galavision
+http://tv2watch.icu:8080/96924127/96924127/58770
+#EXTINF:-1,US GetTV 
+http://tv2watch.icu:8080/96924127/96924127/18366
+#EXTINF:-1,US Great American Country 
+http://tv2watch.icu:8080/96924127/96924127/17640
+#EXTINF:-1,US Grit TV
+http://tv2watch.icu:8080/96924127/96924127/20861
+#EXTINF:-1,US Hallmark Channel
+http://tv2watch.icu:8080/96924127/96924127/46719
+#EXTINF:-1,US Hallmark family
+http://tv2watch.icu:8080/96924127/96924127/9307
+#EXTINF:-1,US Hallmark Movies & Mysteries 
+http://tv2watch.icu:8080/96924127/96924127/10289
+#EXTINF:-1,US HBO East HD  
+http://tv2watch.icu:8080/96924127/96924127/46713
+#EXTINF:-1,US HBO 
+http://tv2watch.icu:8080/96924127/96924127/9264
+#EXTINF:-1,US HBO 2 (A)
+http://tv2watch.icu:8080/96924127/96924127/9816
+#EXTINF:-1,US HBO Comedy (East) 
+http://tv2watch.icu:8080/96924127/96924127/17773
+#EXTINF:-1,US HBO Family (East) 
+http://tv2watch.icu:8080/96924127/96924127/17772
+#EXTINF:-1,US HBO SIGNATURE (East) 
+http://tv2watch.icu:8080/96924127/96924127/9266
+#EXTINF:-1,US HBO Zone (East) 
+http://tv2watch.icu:8080/96924127/96924127/9265
+#EXTINF:-1,US HDNET MOVIES 
+http://tv2watch.icu:8080/96924127/96924127/16265
+#EXTINF:-1,US Heroes & Icons (Los Angeles) 
+http://tv2watch.icu:8080/96924127/96924127/66087
+#EXTINF:-1,US HGTV (East) 
+http://tv2watch.icu:8080/96924127/96924127/46717
+#EXTINF:-1,US HISTORY 
+http://tv2watch.icu:8080/96924127/96924127/46724
+#EXTINF:-1,US History Channel 
+http://tv2watch.icu:8080/96924127/96924127/15017
+#EXTINF:-1,US HLN 
+http://tv2watch.icu:8080/96924127/96924127/17748
+#EXTINF:-1,US IFC 
+http://tv2watch.icu:8080/96924127/96924127/9272
+#EXTINF:-1,US insp 
+http://tv2watch.icu:8080/96924127/96924127/16262
+#EXTINF:-1,US ID Investigation Discovery 
+http://tv2watch.icu:8080/96924127/96924127/46810
+#EXTINF:-1,US ION 
+http://tv2watch.icu:8080/96924127/96924127/9297
+#EXTINF:-1,US Laff (KNVA)
+http://tv2watch.icu:8080/96924127/96924127/17777
+#EXTINF:-1,US Lifetime 
+http://tv2watch.icu:8080/96924127/96924127/46714
+#EXTINF:-1,US Lifetime
+http://tv2watch.icu:8080/96924127/96924127/9275
+#EXTINF:-1,US Lifetime Movie
+http://tv2watch.icu:8080/96924127/96924127/2208
+#EXTINF:-1,USA: LOGO TV
+http://tv2watch.icu:8080/96924127/96924127/20862
+#EXTINF:-1,US Marquee Sports Network (HD) (A)
+http://tv2watch.icu:8080/96924127/96924127/13379
+#EXTINF:-1,US MAV TV (F)
+http://tv2watch.icu:8080/96924127/96924127/20977
+#EXTINF:-1,US MeTV Network East
+http://tv2watch.icu:8080/96924127/96924127/16149
+#EXTINF:-1,US More Max 
+http://tv2watch.icu:8080/96924127/96924127/17776
+#EXTINF:-1,US MotorTrend (A)
+http://tv2watch.icu:8080/96924127/96924127/10399
+#EXTINF:-1,US MoviePlex (East)
+http://tv2watch.icu:8080/96924127/96924127/1829
+#EXTINF:-1,US MSG Plus 
+http://tv2watch.icu:8080/96924127/96924127/9276
+#EXTINF:-1,US MSG (A)
+http://tv2watch.icu:8080/96924127/96924127/21090
+#EXTINF:-1,US MSNBC
+http://tv2watch.icu:8080/96924127/96924127/21376
+#EXTINF:-1,US MSNBC 
+http://tv2watch.icu:8080/96924127/96924127/9296
+#EXTINF:-1,US MTV 
+http://tv2watch.icu:8080/96924127/96924127/9818
+#EXTINF:-1,US MTV2 
+http://tv2watch.icu:8080/96924127/96924127/9308
+#EXTINF:-1,US Nat Geo Wild East (A)
+http://tv2watch.icu:8080/96924127/96924127/11664
+#EXTINF:-1,US National Geographic 
+http://tv2watch.icu:8080/96924127/96924127/46722
+#EXTINF:-1,US National Geographic (East) 
+http://tv2watch.icu:8080/96924127/96924127/9277
+#EXTINF:-1,USA: NBA TV
+http://tv2watch.icu:8080/96924127/96924127/20073
+#EXTINF:-1,USA: NBC
+http://tv2watch.icu:8080/96924127/96924127/46687
+#EXTINF:-1,US Golf Channel 
+http://tv2watch.icu:8080/96924127/96924127/9806
+#EXTINF:-1,US NESN 
+http://tv2watch.icu:8080/96924127/96924127/46726
+#EXTINF:-1,US Newsmax TV 
+http://tv2watch.icu:8080/96924127/96924127/18939
+#EXTINF:-1,US Nick Jr 
+http://tv2watch.icu:8080/96924127/96924127/46710
+#EXTINF:-1,US Nick JR East (A) 
+http://tv2watch.icu:8080/96924127/96924127/9807
+#EXTINF:-1,USA: NTD NEWS. 
+http://tv2watch.icu:8080/96924127/96924127/53527
+#EXTINF:-1,US One America News
+http://tv2watch.icu:8080/96924127/96924127/21752
+#EXTINF:-1,US Outdoor Channel
+http://tv2watch.icu:8080/96924127/96924127/9244
+#EXTINF:-1,US Cinemax Outermax (X)
+http://tv2watch.icu:8080/96924127/96924127/21012
+#EXTINF:-1,USA: OUTSIDE TV
+http://tv2watch.icu:8080/96924127/96924127/20865
+#EXTINF:-1,USA: OWN
+http://tv2watch.icu:8080/96924127/96924127/46698
+#EXTINF:-1,US Oxygen (A)
+http://tv2watch.icu:8080/96924127/96924127/46695
+#EXTINF:-1,US Oxygen (East)   
+http://tv2watch.icu:8080/96924127/96924127/9245
+#EXTINF:-1,US Paramount Network 
+http://tv2watch.icu:8080/96924127/96924127/16201
+#EXTINF:-1,US Paramount Network 
+http://tv2watch.icu:8080/96924127/96924127/46694
+#EXTINF:-1,US Paramount TV 
+http://tv2watch.icu:8080/96924127/96924127/10464
+#EXTINF:-1,US PixL (S)
+http://tv2watch.icu:8080/96924127/96924127/21648
+#EXTINF:-1,US Pursuit UP
+http://tv2watch.icu:8080/96924127/96924127/22888
+#EXTINF:-1,US Reelz 
+http://tv2watch.icu:8080/96924127/96924127/10526
+#EXTINF:-1,US RetroPlex (East) 
+http://tv2watch.icu:8080/96924127/96924127/66379
+#EXTINF:-1,US Revolt 
+http://tv2watch.icu:8080/96924127/96924127/39276
+#EXTINF:-1,US RFD-TV 
+http://tv2watch.icu:8080/96924127/96924127/17868
+#EXTINF:-1,US GAC Living (S)
+http://tv2watch.icu:8080/96924127/96924127/75654
+#EXTINF:-1,USA: AMC Thrillers
+http://tv2watch.icu:8080/96924127/96924127/66243
+#EXTINF:-1,US Discovery Science 
+http://tv2watch.icu:8080/96924127/96924127/20866
+#EXTINF:-1,US Showtime East 
+http://tv2watch.icu:8080/96924127/96924127/46214
+#EXTINF:-1,US Showtime 2 (East) (H)
+http://tv2watch.icu:8080/96924127/96924127/13219
+#EXTINF:-1,US Showtime Extreme (East) (SP)
+http://tv2watch.icu:8080/96924127/96924127/13220
+#EXTINF:-1,US Showtime Family Zone (East) 
+http://tv2watch.icu:8080/96924127/96924127/13481
+#EXTINF:-1,US Showtime Women (East) 
+http://tv2watch.icu:8080/96924127/96924127/17778
+#EXTINF:-1,US Smithsonian Channel (East)   
+http://tv2watch.icu:8080/96924127/96924127/31150
+#EXTINF:-1,US Sportsnet New York (SNY) (A)
+http://tv2watch.icu:8080/96924127/96924127/20938
+#EXTINF:-1,US Sportsman Channel (A)
+http://tv2watch.icu:8080/96924127/96924127/79913
+#EXTINF:-1,US Starz Cinema (East) 
+http://tv2watch.icu:8080/96924127/96924127/17775
+#EXTINF:-1,US Starz Cinema (East) 
+http://tv2watch.icu:8080/96924127/96924127/9301
+#EXTINF:-1,US Starz East (S)
+http://tv2watch.icu:8080/96924127/96924127/9299
+#EXTINF:-1,US Starz Encore Westerns (East) 
+http://tv2watch.icu:8080/96924127/96924127/16263
+#EXTINF:-1,US Starz in Black (East) 
+http://tv2watch.icu:8080/96924127/96924127/17779
+#EXTINF:-1,US Starz West (S)
+http://tv2watch.icu:8080/96924127/96924127/21091
+#EXTINF:-1,US SUNDANCE 
+http://tv2watch.icu:8080/96924127/96924127/46712
+#EXTINF:-1,US Syfy (East)   
+http://tv2watch.icu:8080/96924127/96924127/46685
+#EXTINF:-1,US TBN 
+http://tv2watch.icu:8080/96924127/96924127/21895
+#EXTINF:-1,US TBS 
+http://tv2watch.icu:8080/96924127/96924127/20867
+#EXTINF:-1,US Golf Channel 
+http://tv2watch.icu:8080/96924127/96924127/46728
+#EXTINF:-1,US The Weather Channel 
+http://tv2watch.icu:8080/96924127/96924127/18926
+#EXTINF:-1,US TLC (East)  
+http://tv2watch.icu:8080/96924127/96924127/46691
+#EXTINF:-1,US TLC East 
+http://tv2watch.icu:8080/96924127/96924127/12734
+#EXTINF:-1,US TLC (east) 
+http://tv2watch.icu:8080/96924127/96924127/47703
+#EXTINF:-1,US TNT (West) 
+http://tv2watch.icu:8080/96924127/96924127/46688
+#EXTINF:-1,US TNT East 
+http://tv2watch.icu:8080/96924127/96924127/10455
+#EXTINF:-1,US Travel Channel East 
+http://tv2watch.icu:8080/96924127/96924127/9315
+#EXTINF:-1,US TRUTV East 
+http://tv2watch.icu:8080/96924127/96924127/10224
+#EXTINF:-1,US Latin TUDN
+http://tv2watch.icu:8080/96924127/96924127/11885
+#EXTINF:-1,CA Turner Classic Movies
+http://tv2watch.icu:8080/96924127/96924127/66242
+#EXTINF:-1,US TV Land 
+http://tv2watch.icu:8080/96924127/96924127/46696
+#EXTINF:-1,USA: TV Land Classic HD
+http://tv2watch.icu:8080/96924127/96924127/9271
+#EXTINF:-1,US TV One 
+http://tv2watch.icu:8080/96924127/96924127/20868
+#EXTINF:-1,US TVG Network 
+http://tv2watch.icu:8080/96924127/96924127/10259
+#EXTINF:-1,US TVG2 Network 
+http://tv2watch.icu:8080/96924127/96924127/18940
+#EXTINF:-1,US Univision (East) (SP)
+http://tv2watch.icu:8080/96924127/96924127/46692
+#EXTINF:-1,US Up TV 
+http://tv2watch.icu:8080/96924127/96924127/10525
+#EXTINF:-1,US USA Network (East)  
+http://tv2watch.icu:8080/96924127/96924127/10252
+#EXTINF:-1,US VH1 (East) 
+http://tv2watch.icu:8080/96924127/96924127/46705
+#EXTINF:-1,US VH1 
+http://tv2watch.icu:8080/96924127/96924127/7404
+#EXTINF:-1,US VICELAND 
+http://tv2watch.icu:8080/96924127/96924127/46697
+#EXTINF:-1,US VSiN (F)
+http://tv2watch.icu:8080/96924127/96924127/18941
+#EXTINF:-1,US WAPA America 
+http://tv2watch.icu:8080/96924127/96924127/76481
+#EXTINF:-1,US WE tv 
+http://tv2watch.icu:8080/96924127/96924127/9237
+#EXTINF:-1,US World Fishing Network (F)
+http://tv2watch.icu:8080/96924127/96924127/10477
+#EXTINF:-1,VOCM | AM St. John's, Newfoundland
+http://tv2watch.icu:8080/96924127/96924127/16240
+#EXTINF:-1,WFUV Radio
+http://tv2watch.icu:8080/96924127/96924127/17782
+#EXTINF:-1,WKCR 89.9 NY
+http://tv2watch.icu:8080/96924127/96924127/17825
+#EXTINF:-1,WQXR - Operavore 
+http://tv2watch.icu:8080/96924127/96924127/17866
+#EXTINF:-1,WSHU Public Radio
+http://tv2watch.icu:8080/96924127/96924127/17865
+#EXTINF:-1,US TUDN 
+http://tv2watch.icu:8080/96924127/96924127/82241
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CA (FR) Canal D SD (P)
+http://tv2watch.icu:8080/96924127/96924127/57479
+#EXTINF:-1,CA (FR) CinePOP SD (P)
+http://tv2watch.icu:8080/96924127/96924127/57480
+#EXTINF:-1,CA (FR) Evasion SD (P)
+http://tv2watch.icu:8080/96924127/96924127/57482
+#EXTINF:-1,CA (FR) Historia HD 
+http://tv2watch.icu:8080/96924127/96924127/57483
+#EXTINF:-1,CA (FR) ICI Tele Montreal HD (D) 
+http://tv2watch.icu:8080/96924127/96924127/57484
+#EXTINF:-1,CA (FR) ICI Tele Quebec HD (D) 
+http://tv2watch.icu:8080/96924127/96924127/57493
+#EXTINF:-1,CA-FR | ICI VANCOUVER FR
+http://tv2watch.icu:8080/96924127/96924127/57485
+#EXTINF:-1,CA (FR) Disney La Chaine (R)
+http://tv2watch.icu:8080/96924127/96924127/57481
+#EXTINF:-1,CA (FR) LCN (E)
+http://tv2watch.icu:8080/96924127/96924127/57968
+#EXTINF:-1,CA-FR | METEO
+http://tv2watch.icu:8080/96924127/96924127/57486
+#EXTINF:-1,CA-FR | MOI ET CIE
+http://tv2watch.icu:8080/96924127/96924127/57487
+#EXTINF:-1,CA (FR) Prise  (P)
+http://tv2watch.icu:8080/96924127/96924127/57488
+#EXTINF:-1,CA (FR) RDS2 HD (B)
+http://tv2watch.icu:8080/96924127/96924127/57490
+#EXTINF:-1,CA-FR | RDS INFO
+http://tv2watch.icu:8080/96924127/96924127/57491
+#EXTINF:-1,CA (FR) Super Ecran 1 (E)
+http://tv2watch.icu:8080/96924127/96924127/66363
+#EXTINF:-1,CA (FR) Super Ecran 2 SD (P)
+http://tv2watch.icu:8080/96924127/96924127/66364
+#EXTINF:-1,CA (FR) Super Ecran 3 SD (P)
+http://tv2watch.icu:8080/96924127/96924127/66365
+#EXTINF:-1,CA (FR) Super Ecran 4 SD (P)
+http://tv2watch.icu:8080/96924127/96924127/66366
+#EXTINF:-1,CA (FR) TFO HD (R)
+http://tv2watch.icu:8080/96924127/96924127/57495
+#EXTINF:-1,CA (FR) TVA Montreal FHD (B)
+http://tv2watch.icu:8080/96924127/96924127/57497
+#EXTINF:-1,CA-FR | TVA SPORTS 1
+http://tv2watch.icu:8080/96924127/96924127/57498
+#EXTINF:-1,CA (FR) NOOVO (D)
+http://tv2watch.icu:8080/96924127/96924127/57501
+#EXTINF:-1,CA (FR) Zeste HD  (B)
+http://tv2watch.icu:8080/96924127/96924127/57502
+#EXTINF:-1,CA-NBA TV
+http://tv2watch.icu:8080/96924127/96924127/22995
+#EXTINF:-1,CA Sportsnet East (D) 
+http://tv2watch.icu:8080/96924127/96924127/41836
+#EXTINF:-1,CA Sportsnet One (E)
+http://tv2watch.icu:8080/96924127/96924127/10247
+#EXTINF:-1,CA TSN 4 HD 
+http://tv2watch.icu:8080/96924127/96924127/16130
+#EXTINF:-1,CA YTV East 
+http://tv2watch.icu:8080/96924127/96924127/63850
+#EXTINF:-1,CA: A&E
+http://tv2watch.icu:8080/96924127/96924127/57476
+#EXTINF:-1,CA A&E 
+http://tv2watch.icu:8080/96924127/96924127/57264
+#EXTINF:-1,CA: ABC SPARK
+http://tv2watch.icu:8080/96924127/96924127/57375
+#EXTINF:-1,CA: AMC
+http://tv2watch.icu:8080/96924127/96924127/57376
+#EXTINF:-1,CA: Animal Planet
+http://tv2watch.icu:8080/96924127/96924127/57377
+#EXTINF:-1,CA: BNN Bloomberg HD
+http://tv2watch.icu:8080/96924127/96924127/57358
+#EXTINF:-1,CA: Bravo
+http://tv2watch.icu:8080/96924127/96924127/57379
+#EXTINF:-1,CA Cartoon Network 
+http://tv2watch.icu:8080/96924127/96924127/57380
+#EXTINF:-1,CA Cartoon Network (E)
+http://tv2watch.icu:8080/96924127/96924127/57356
+#EXTINF:-1,CA CBC NEWS NETWORK (E)
+http://tv2watch.icu:8080/96924127/96924127/57304
+#EXTINF:-1,CA CBC Calgary HD 
+http://tv2watch.icu:8080/96924127/96924127/57381
+#EXTINF:-1,CA CBC Charlottetown HD (D)
+http://tv2watch.icu:8080/96924127/96924127/57382
+#EXTINF:-1,CA: CBC Edmonton
+http://tv2watch.icu:8080/96924127/96924127/57384
+#EXTINF:-1,CA CBC Halifax HD 
+http://tv2watch.icu:8080/96924127/96924127/57385
+#EXTINF:-1,CA CBC Montreal HD (D) 
+http://tv2watch.icu:8080/96924127/96924127/57387
+#EXTINF:-1,CA: CBC OTTAWA
+http://tv2watch.icu:8080/96924127/96924127/57305
+#EXTINF:-1,CA: CBC TORONTO
+http://tv2watch.icu:8080/96924127/96924127/57306
+#EXTINF:-1,CA: CBC Vancouver
+http://tv2watch.icu:8080/96924127/96924127/57391
+#EXTINF:-1,CA CHCH (E)
+http://tv2watch.icu:8080/96924127/96924127/57393
+#EXTINF:-1,CA: CHRGD
+http://tv2watch.icu:8080/96924127/96924127/75653
+#EXTINF:-1,CA CITY TV CALGARY (E)
+http://tv2watch.icu:8080/96924127/96924127/75652
+#EXTINF:-1,CA City TV Toronto (D)
+http://tv2watch.icu:8080/96924127/96924127/57394
+#EXTINF:-1,CA CITY TV VANCOUVER (E)
+http://tv2watch.icu:8080/96924127/96924127/57395
+#EXTINF:-1,CA CMT
+http://tv2watch.icu:8080/96924127/96924127/57258
+#EXTINF:-1,CA: CNN 
+http://tv2watch.icu:8080/96924127/96924127/57398
+#EXTINF:-1,CA CNN 
+http://tv2watch.icu:8080/96924127/96924127/47213
+#EXTINF:-1,CA Cottage Life HD (B)
+http://tv2watch.icu:8080/96924127/96924127/47217
+#EXTINF:-1,CA CP24 News HD (D)
+http://tv2watch.icu:8080/96924127/96924127/57357
+#EXTINF:-1,CA CP24 News HD (E)
+http://tv2watch.icu:8080/96924127/96924127/57401
+#EXTINF:-1,CA CP24 HD 
+http://tv2watch.icu:8080/96924127/96924127/57345
+#EXTINF:-1,CA: CP24 FHD
+http://tv2watch.icu:8080/96924127/96924127/47218
+#EXTINF:-1,CA: CP24 HD
+http://tv2watch.icu:8080/96924127/96924127/57257
+#EXTINF:-1,CA: CPAC
+http://tv2watch.icu:8080/96924127/96924127/57402
+#EXTINF:-1,CA: CPAC English
+http://tv2watch.icu:8080/96924127/96924127/57352
+#EXTINF:-1,CA CPAC HD 
+http://tv2watch.icu:8080/96924127/96924127/57351
+#EXTINF:-1,CA: CRAVE 1 HD
+http://tv2watch.icu:8080/96924127/96924127/57309
+#EXTINF:-1,CA: CRAVE 2 HD
+http://tv2watch.icu:8080/96924127/96924127/57310
+#EXTINF:-1,CA: CRAVE 3
+http://tv2watch.icu:8080/96924127/96924127/57322
+#EXTINF:-1,CA: CRAVE 4 HD
+http://tv2watch.icu:8080/96924127/96924127/57311
+#EXTINF:-1,CA: CRIME & INVESTIGATION
+http://tv2watch.icu:8080/96924127/96924127/57256
+#EXTINF:-1,CA CTV Two Atlantic 
+http://tv2watch.icu:8080/96924127/96924127/79547
+#EXTINF:-1,CA CTV CALGARY (E)
+http://tv2watch.icu:8080/96924127/96924127/57964
+#EXTINF:-1,CA CTV Comedy Channel 
+http://tv2watch.icu:8080/96924127/96924127/57408
+#EXTINF:-1,CA CTV Drama Channel (R)
+http://tv2watch.icu:8080/96924127/96924127/57254
+#EXTINF:-1,CA CTV Edmonton Alberta HD (D)
+http://tv2watch.icu:8080/96924127/96924127/58725
+#EXTINF:-1,CA CTV Halifax Nova Scotia HD 
+http://tv2watch.icu:8080/96924127/96924127/57410
+#EXTINF:-1,CA CTV Kitchener 
+http://tv2watch.icu:8080/96924127/96924127/58557
+#EXTINF:-1,CA CTV 2 London HD 
+http://tv2watch.icu:8080/96924127/96924127/58546
+#EXTINF:-1,CA CTV Montreal HD 
+http://tv2watch.icu:8080/96924127/96924127/47234
+#EXTINF:-1,CA: CTV NEWS CHANNEL HD
+http://tv2watch.icu:8080/96924127/96924127/57350
+#EXTINF:-1,CA: CTV OTTAWA
+http://tv2watch.icu:8080/96924127/96924127/47237
+#EXTINF:-1,CA CTV Regina Saskatchewan HD (D)
+http://tv2watch.icu:8080/96924127/96924127/66381
+#EXTINF:-1,CA CTV Saskatoon Saskatchewan HD (D)
+http://tv2watch.icu:8080/96924127/96924127/66382
+#EXTINF:-1,CA CTV Sci-Fi Channel (B)
+http://tv2watch.icu:8080/96924127/96924127/57253
+#EXTINF:-1,CA CTV Toronto HD (R)
+http://tv2watch.icu:8080/96924127/96924127/47296
+#EXTINF:-1,CA: CTV2 Vancouver
+http://tv2watch.icu:8080/96924127/96924127/57316
+#EXTINF:-1,CA CTV2 Windsor HD (B)
+http://tv2watch.icu:8080/96924127/96924127/77165
+#EXTINF:-1,CA CTV Barrie Ontario HD 
+http://tv2watch.icu:8080/96924127/96924127/57373
+#EXTINF:-1,CA Discovery Channel 
+http://tv2watch.icu:8080/96924127/96924127/57252
+#EXTINF:-1,CA: Discovery Science
+http://tv2watch.icu:8080/96924127/96924127/57418
+#EXTINF:-1,CA Disney Junior 
+http://tv2watch.icu:8080/96924127/96924127/57349
+#EXTINF:-1,CA Disney XD (R)
+http://tv2watch.icu:8080/96924127/96924127/57420
+#EXTINF:-1,CA: DIY NETWORK FHD
+http://tv2watch.icu:8080/96924127/96924127/47258
+#EXTINF:-1,CA: DTOUR HD
+http://tv2watch.icu:8080/96924127/96924127/57250
+#EXTINF:-1,CA E! (R)
+http://tv2watch.icu:8080/96924127/96924127/57422
+#EXTINF:-1,CA: E! CANADA HD
+http://tv2watch.icu:8080/96924127/96924127/57249
+#EXTINF:-1,CA (FR) TV5 
+http://tv2watch.icu:8080/96924127/96924127/57288
+#EXTINF:-1,US Discovery Family 
+http://tv2watch.icu:8080/96924127/96924127/57347
+#EXTINF:-1,CA: Family Jr HD
+http://tv2watch.icu:8080/96924127/96924127/57346
+#EXTINF:-1,CA Food Network
+http://tv2watch.icu:8080/96924127/96924127/57247
+#EXTINF:-1,CA FOX NEWS
+http://tv2watch.icu:8080/96924127/96924127/47281
+#EXTINF:-1,CA: FX HD
+http://tv2watch.icu:8080/96924127/96924127/57268
+#EXTINF:-1,CA FXX 
+http://tv2watch.icu:8080/96924127/96924127/57429
+#EXTINF:-1,CA Game Show Network HD 
+http://tv2watch.icu:8080/96924127/96924127/57430
+#EXTINF:-1,CA: Ginx esports TV
+http://tv2watch.icu:8080/96924127/96924127/57431
+#EXTINF:-1,CA Global News Kingston (D)
+http://tv2watch.icu:8080/96924127/96924127/57432
+#EXTINF:-1,CA Global Edmonton News (E)
+http://tv2watch.icu:8080/96924127/96924127/58724
+#EXTINF:-1,CA: Global Halifax News
+http://tv2watch.icu:8080/96924127/96924127/57434
+#EXTINF:-1,CA Global News Regina (D)
+http://tv2watch.icu:8080/96924127/96924127/66384
+#EXTINF:-1,CA Global Saskatoon (B)
+http://tv2watch.icu:8080/96924127/96924127/66383
+#EXTINF:-1,CA GLOBAL TORONTO
+http://tv2watch.icu:8080/96924127/96924127/57435
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://tv2watch.icu:8080/96924127/96924127/57302
+#EXTINF:-1,CA: Global Vancouver
+http://tv2watch.icu:8080/96924127/96924127/57436
+#EXTINF:-1,CA: Golf Channel HD
+http://tv2watch.icu:8080/96924127/96924127/57362
+#EXTINF:-1,CA: HBO 1 
+http://tv2watch.icu:8080/96924127/96924127/57437
+#EXTINF:-1,CA HBO 2 (R)
+http://tv2watch.icu:8080/96924127/96924127/57438
+#EXTINF:-1,CA HGTV 
+http://tv2watch.icu:8080/96924127/96924127/57273
+#EXTINF:-1,CA HISTORY 
+http://tv2watch.icu:8080/96924127/96924127/47302
+#EXTINF:-1,CA HISTORY (E)
+http://tv2watch.icu:8080/96924127/96924127/57272
+#EXTINF:-1,CA: HLN
+http://tv2watch.icu:8080/96924127/96924127/57441
+#EXTINF:-1,CA Investigation Discovery HD (E)
+http://tv2watch.icu:8080/96924127/96924127/57442
+#EXTINF:-1,CA Lifetime 
+http://tv2watch.icu:8080/96924127/96924127/57271
+#EXTINF:-1,CA: Lifetime Movie Network
+http://tv2watch.icu:8080/96924127/96924127/57444
+#EXTINF:-1,CA Love Nature HD 
+http://tv2watch.icu:8080/96924127/96924127/47324
+#EXTINF:-1,CA: MAKEFUL
+http://tv2watch.icu:8080/96924127/96924127/57270
+#EXTINF:-1,CA: MOVIETIME HD
+http://tv2watch.icu:8080/96924127/96924127/47331
+#EXTINF:-1,CA MSNBC (R)
+http://tv2watch.icu:8080/96924127/96924127/47332
+#EXTINF:-1,CA: MTV
+http://tv2watch.icu:8080/96924127/96924127/57446
+#EXTINF:-1,CA MTV2 (E)
+http://tv2watch.icu:8080/96924127/96924127/57447
+#EXTINF:-1,CA: MTV HD
+http://tv2watch.icu:8080/96924127/96924127/57368
+#EXTINF:-1,CA: National Geographics
+http://tv2watch.icu:8080/96924127/96924127/57281
+#EXTINF:-1,CA National Geographic Wild 
+http://tv2watch.icu:8080/96924127/96924127/57280
+#EXTINF:-1,CA: NFL NETWORK HD
+http://tv2watch.icu:8080/96924127/96924127/47346
+#EXTINF:-1,CA Nickelodeon (R)
+http://tv2watch.icu:8080/96924127/96924127/47349
+#EXTINF:-1,CA (ZH) NTD (E)
+http://tv2watch.icu:8080/96924127/96924127/58023
+#EXTINF:-1,CA NTV St. John`s 
+http://tv2watch.icu:8080/96924127/96924127/57478
+#EXTINF:-1,CA OLN (E)
+http://tv2watch.icu:8080/96924127/96924127/57366
+#EXTINF:-1,CA: OMNI1 HD
+http://tv2watch.icu:8080/96924127/96924127/57365
+#EXTINF:-1,CA OWN 
+http://tv2watch.icu:8080/96924127/96924127/57277
+#EXTINF:-1,CA: PBS HD
+http://tv2watch.icu:8080/96924127/96924127/57276
+#EXTINF:-1,CA Peachtree TV HD (R)
+http://tv2watch.icu:8080/96924127/96924127/47362
+#EXTINF:-1,CA (FR) RDS (R)
+http://tv2watch.icu:8080/96924127/96924127/57325
+#EXTINF:-1,CA: Showcase HD
+http://tv2watch.icu:8080/96924127/96924127/47366
+#EXTINF:-1,CA Slice TV 
+http://tv2watch.icu:8080/96924127/96924127/57274
+#EXTINF:-1,CA Smithsonian Channel (B)
+http://tv2watch.icu:8080/96924127/96924127/47369
+#EXTINF:-1,CA Sportsnet 360 HD 
+http://tv2watch.icu:8080/96924127/96924127/2219
+#EXTINF:-1,CA Sportsnet 360 (HD)
+http://tv2watch.icu:8080/96924127/96924127/57299
+#EXTINF:-1,CA Sportsnet East HD (F)
+http://tv2watch.icu:8080/96924127/96924127/57298
+#EXTINF:-1,CA Sportsnet One (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/57297
+#EXTINF:-1,CA Sportsnet One (HD) 
+http://tv2watch.icu:8080/96924127/96924127/47379
+#EXTINF:-1,CA: Sportsnet Ontario
+http://tv2watch.icu:8080/96924127/96924127/57463
+#EXTINF:-1,CA Sportsnet Ontario HD 
+http://tv2watch.icu:8080/96924127/96924127/57296
+#EXTINF:-1,CA Sportsnet Ontario (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/11649
+#EXTINF:-1,CA Sportsnet Pacific (FHD) 
+http://tv2watch.icu:8080/96924127/96924127/9860
+#EXTINF:-1,CA Sportsnet Pacific HD
+http://tv2watch.icu:8080/96924127/96924127/47387
+#EXTINF:-1,CA Sportsnet West (FHD)
+http://tv2watch.icu:8080/96924127/96924127/20975
+#EXTINF:-1,CA: SPORTSNET WEST
+http://tv2watch.icu:8080/96924127/96924127/57300
+#EXTINF:-1,CA Sportsnet World HD 
+http://tv2watch.icu:8080/96924127/96924127/75675
+#EXTINF:-1,CA CTV SCI-FI 
+http://tv2watch.icu:8080/96924127/96924127/57464
+#EXTINF:-1,CA Teletoon East (E)
+http://tv2watch.icu:8080/96924127/96924127/57372
+#EXTINF:-1,CA: TFO  (FR)
+http://tv2watch.icu:8080/96924127/96924127/57291
+#EXTINF:-1,CA TLC 
+http://tv2watch.icu:8080/96924127/96924127/57290
+#EXTINF:-1,CA Treehouse (R)
+http://tv2watch.icu:8080/96924127/96924127/57371
+#EXTINF:-1,CA : The Shopping Channel (B)
+http://tv2watch.icu:8080/96924127/96924127/57370
+#EXTINF:-1,CA TSN 1 (E)
+http://tv2watch.icu:8080/96924127/96924127/57292
+#EXTINF:-1,CA TSN 1 (R)
+http://tv2watch.icu:8080/96924127/96924127/47440
+#EXTINF:-1,CA TSN 2 (R)
+http://tv2watch.icu:8080/96924127/96924127/16129
+#EXTINF:-1,CA TSN 2 HD 
+http://tv2watch.icu:8080/96924127/96924127/47442
+#EXTINF:-1,CA TSN 3 HD 
+http://tv2watch.icu:8080/96924127/96924127/10389
+#EXTINF:-1,CA TSN 3 HD 
+http://tv2watch.icu:8080/96924127/96924127/47444
+#EXTINF:-1,CA TSN 4 
+http://tv2watch.icu:8080/96924127/96924127/66783
+#EXTINF:-1,CA TSN 4 (B)
+http://tv2watch.icu:8080/96924127/96924127/47446
+#EXTINF:-1,CA TSN 5 
+http://tv2watch.icu:8080/96924127/96924127/57467
+#EXTINF:-1,CA TSN 5 HD 
+http://tv2watch.icu:8080/96924127/96924127/16131
+#EXTINF:-1,CA TSN 5 
+http://tv2watch.icu:8080/96924127/96924127/57295
+#EXTINF:-1,CA: TV Ontario HD
+http://tv2watch.icu:8080/96924127/96924127/57369
+#EXTINF:-1,CA: Vision
+http://tv2watch.icu:8080/96924127/96924127/57468
+#EXTINF:-1,CA W Network East (E)
+http://tv2watch.icu:8080/96924127/96924127/57284
+#EXTINF:-1,CA: Weather Network Toronto
+http://tv2watch.icu:8080/96924127/96924127/57470
+#EXTINF:-1,CA: World Fishing Network
+http://tv2watch.icu:8080/96924127/96924127/57471
+#EXTINF:-1,CA YES TV 
+http://tv2watch.icu:8080/96924127/96924127/57472
+#EXTINF:-1,CA:TELE QUEBEC (FR)
+http://tv2watch.icu:8080/96924127/96924127/57336
